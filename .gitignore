@@ -1,1 +1,4 @@
 /target
+/netburn-report*.html
+/.pi-subagents
+/.DS_Store
